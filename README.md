@@ -30,7 +30,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,php,cpp,lua,react,nodejs,express,socketio,html,css,tensorflow,mysql,postgres,redis,docker,gradle,git,gitlab,linux,bash&perline=8" alt="tech stack"/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,php,cpp,lua,react,nodejs,express,html,css,tensorflow,mysql,postgres,redis,docker,gradle,git,gitlab,linux,bash&perline=8" alt="tech stack"/>
 
 </div>
 
@@ -40,7 +40,7 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=S7venz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&title_color=8B5CF6&icon_color=8B5CF6" alt="github stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=S7venz&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&title_color=8B5CF6&icon_color=8B5CF6" alt="github stats"/>
 <img height="170" src="https://streak-stats.demolab.com?user=S7venz&hide_border=true&theme=tokyonight&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" alt="streak"/>
 
 <br/>
@@ -74,6 +74,7 @@
 
 ### Let's connect
 
+<a href="https://www.linkedin.com/in/cengizhan-o-9150b823b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 <a href="mailto:cengizhanozbek02@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
 <a href="https://github.com/S7venz"><img src="https://img.shields.io/badge/GitHub-12181f?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
 
