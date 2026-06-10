@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=200&section=header&text=Cengizhan%20OZBEK&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Co-Owner%20%26%20Developer%20%40%20Zoria%20Studio%20•%20Fullstack%20JS%20%2F%20Game%20Dev&descSize=17&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=200&section=header&text=Cengizhan%20OZBEK&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=42" width="100%"/>
 
 <a href="https://github.com/S7venz">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=8B5CF6&center=true&vCenter=true&width=620&lines=Co-Owner+%26+Developer+%40+Zoria+Studio+(MMORPG);Fullstack+JS+%7C+React+%2F+Node+%2F+Express;Game+dev+with+C%2B%2B+%2F+Python+%2F+Lua;Machine+Learning+%26+GenAI+%7C+TensorFlow+%2F+RAG;MSc+Cybersecurity+%26+High+Availability+(RNCP+7)" alt="Typing SVG"/>
@@ -49,10 +49,6 @@
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=S7venz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="trophies"/>
-
-<br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=S7venz&theme=tokyo-night&hide_border=true&area=true&color=8B5CF6&line=8B5CF6&point=ffffff" width="95%" alt="activity graph"/>
 
 </div>
@@ -81,6 +77,6 @@
 <br/><br/>
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=120&section=footer" width="100%"/>
 
 </div>
